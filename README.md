@@ -26,7 +26,7 @@
 
 Here’s what the QubeCare AI login screen looks like:
 
-![QubeCare AI Login Screen](https://raw.githubusercontent.com/asifpiet/qubecare/dashboard.png)
+![QubeCare AI Login Screen](https://raw.githubusercontent.com/asifpiet/qubecare/blob/main/dashboard.png)
 
 
 
