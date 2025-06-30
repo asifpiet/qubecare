@@ -1,0 +1,102 @@
+*,
+::before,
+::after {
+  box-sizing: inherit;
+  background-repeat: no-repeat;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+.v-card, .layout-wrapper.layout-nav-type-vertical .layout-navbar .navbar-content-container{
+  border-radius: 8px !important;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12) !important;
+  transition: transform .3s ease-out, opacity .3s ease-out, box-shadow .3s ease-out;
+}
+.layout-nav-type-vertical .layout-vertical-nav {
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.12) !important;
+}
+
+body .layout-wrapper.layout-nav-type-vertical.layout-navbar-sticky .layout-page-content {
+  margin-block-start: 3rem !important;
+}
+
+.navbar-active #logo-container{
+  box-shadow: unset !important;
+  box-shadow: rgba(0, 0, 0, 0.12) 0.5px -3px 3px !important;
+  z-index: 999;
+}
+
+body .layout-wrapper.layout-nav-type-vertical.layout-navbar-sticky .layout-page-content{
+  margin-block-start: 4rem !important;
+}
+
+
+
+.layout-horizontal-nav .nav-link:not(.sub-item) a.router-link-active i, .layout-horizontal-nav .nav-group:not(.sub-item).active > .popper-triggerer > .nav-group-label i, .layout-nav-type-vertical .layout-vertical-nav .nav-link > .router-link-exact-active i{
+  color: white !important;
+}
+
+.shift-arraow-right .v-slide-group__container{
+  order: -1;
+}
+
+.shift-arraow-right .v-slide-group__next, .v-slide-group__prev{
+  flex: 0 1 36px;
+  min-width: 36px;
+}
+
+.sidebar-actions{
+  min-height: 96px;
+  bottom: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.custom-card{
+  background-color: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  padding: 10px 10px;
+  margin-bottom: 25px;
+  border: 1px solid #e6e6e6;
+}
+
+.custom-color{
+  color: #3d8a76
+}
+
+.custom-heading{
+  font-size: 20px;
+  font-weight: 600;
+  font-family: 'Segoe UI This';
+}
+
+.v-list-item-title{
+  font-family: 'Segoe UI This';
+}
+
+.item-description {
+  font-size: 13px;
+  color: #999;
+  margin-top: 4px;
+  font-weight: 400;
+}
+.disclaimer {
+  margin-top: 15px;
+  font-size: 12px;
+  line-height: 1.5;
+  color: #999;
+}
+.bg-custom {
+  background: #f5fbf9;
+}
+
+@font-face {
+  font-family: 'Segoe UI This';
+  src: url('/segoe-font/SegoeUIThis.woff') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
