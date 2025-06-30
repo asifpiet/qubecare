@@ -1,35 +1,36 @@
-# vue
+# QubeCare AI
 
-This template should help get you started developing with Vue 3 in Vite.
+**QubeCare AI** is an advanced healthcare platform designed to streamline patient care, empower healthcare providers, and improve operational efficiency through intelligent automation and data-driven insights.
 
-## Recommended IDE Setup
+---
 
-[VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar) (and disable Vetur).
+## 🌐 Live URL
 
-## Type Support for `.vue` Imports in TS
+👉 [https://app.qubecare.ai](https://app.qubecare.ai)
 
-Since TypeScript cannot handle type information for `.vue` imports, they are shimmed to be a generic Vue component type by default. In most cases this is fine if you don't really care about component prop types outside of templates.
+---
 
-However, if you wish to get actual prop types in `.vue` imports (for example to get props validation when using manual `h(...)` calls), you can run `Volar: Switch TS Plugin on/off` from VS Code command palette.
+## 🚀 Key Features
 
-## Customize configuration
+- 🩺 **Patient Management** — Track patient records, appointments, and treatment plans.
+- 📊 **Analytics Dashboard** — Gain actionable insights with real-time data visualizations.
+- 🗓️ **Appointment Scheduling** — Simplify booking and notifications for patients and staff.
+- 🔒 **Secure Data Handling** — HIPAA-compliant security for patient information.
+- 🤝 **Multi-Provider Support** — Manage multiple practitioners and care teams.
+- 📱 **Mobile-First Design** — Accessible on any device for patients and healthcare staff.
+- 🔗 **Integrations** — Connect with EHR/EMR systems and third-party services.
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+---
 
-## Project Setup
+## 🔐 Login Screen
 
-```sh
-npm install
-```
+Here’s what the QubeCare AI login screen looks like:
 
-### Compile and Hot-Reload for Development
+![QubeCare AI Login Screen](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/login-screen.png)
 
-```sh
-npm run dev
-```
+> 📸 *Replace the URL above with your actual raw GitHub image link!*
 
-### Type-Check, Compile and Minify for Production
+---
 
-```sh
-npm run build
-```
+## 🗂️ Project Structure
+
