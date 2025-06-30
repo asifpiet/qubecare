@@ -26,11 +26,7 @@
 
 Here’s what the QubeCare AI login screen looks like:
 
-![QubeCare AI Login Screen](https://raw.githubusercontent.com/yourusername/yourrepo/main/assets/login-screen.png)
+![QubeCare AI Login Screen](https://raw.githubusercontent.com/asifpiet/qubecare/dashboard.png)
 
-> 📸 *Replace the URL above with your actual raw GitHub image link!*
 
----
-
-## 🗂️ Project Structure
 
